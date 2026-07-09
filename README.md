@@ -1,0 +1,21 @@
+# peecos — Media
+
+Overview media for [peecos](https://www.peecos.org) and the [PIOS framework](https://github.com/peecos/pios). These are companion introductions — the canonical framework is the [PIOS 2.0 master documentation](https://www.peecos.org/pios/master).
+
+## Assets
+
+| Asset | Format | What it is |
+| --- | --- | --- |
+| [peecos Architectural Manifesto](peecos-architectural-manifesto.pdf) | PDF, 15 pages | Visual brief: the architectural manifesto and blueprint for owner-controlled personal information infrastructure |
+| [PIOS 2.0 Overview](pios-2-overview.mp4) | Video (MP4) | Video overview of PIOS 2.0 |
+| [Your AI Agents Live Inside Your Data](your-ai-agents-live-inside-your-data.m4a) | Audio (M4A) | Audio overview — conversational walkthrough of owner-controlled personal infrastructure |
+
+## Provenance
+
+Generated with NotebookLM from the PIOS 2.0 master documentation and peecos materials. The master documentation remains the authoritative source; where media and documentation disagree, the documentation wins. (Known instance: the manifesto cover reads "Personal Intelligence Operating System"; the ratified expansion is **Personal Information Operating System**.)
+
+## License
+
+© 2026 Valto Loikkanen / peecos. Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with attribution to Valto Loikkanen / peecos.
+
+Contact: valto@valtoai.com
