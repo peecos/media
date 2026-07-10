@@ -8,6 +8,7 @@ Overview media for [peecos](https://www.peecos.org) and the [PIOS framework](htt
 | --- | --- | --- |
 | [peecos Architectural Manifesto](peecos-architectural-manifesto.pdf) | PDF, 15 pages | Visual brief: the architectural manifesto and blueprint for owner-controlled personal information infrastructure |
 | [PIOS 2.0 Overview](pios-2-overview.mp4) | Video (MP4) | Video overview of PIOS 2.0 |
+| [Architecting the Sovereign AI Core](architecting-the-sovereign-ai-core.mp4) | Video (MP4) | Video overview of the Core architecture: owner-controlled, sovereign personal AI infrastructure |
 | [Your AI Agents Live Inside Your Data](your-ai-agents-live-inside-your-data.m4a) | Audio (M4A) | Audio overview — conversational walkthrough of owner-controlled personal infrastructure |
 
 ## Provenance
